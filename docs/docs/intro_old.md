@@ -1,12 +1,8 @@
----
-sidebar_position: 1
----
+# 説明書 (旧)
 
-:::tip
-このドキュメントはまだ不完全です。何かわからないことがあれば X (旧: Twitter) で [@zeriyoshi](https://x.com/zeriyoshi) または [@zeriyoshi_s](https://x.com/zeriyoshi_s) に聞いてください 
+:::info
+このドキュメントは頒布時点で公開していた暫定版のバックアップです
 :::
-
-# 説明書
 
 ここでは邪神ちゃんしっぽテンキーマクロパッドのデバイスとの接続方法について説明します。
 
